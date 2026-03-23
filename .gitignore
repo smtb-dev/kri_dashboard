@@ -1,0 +1,12 @@
+.DS_Store
+.venv
+__pycache__/
+*.pyc
+
+api/reports/
+api/.pytest_cache/
+
+web/.next/
+web/node_modules/
+
+infra/.env
